@@ -13,7 +13,7 @@
   <remote fetch="https://git.openembedded.org"  name="python2"/>
   <remote fetch="https://git.yoctoproject.org/git" name="yocto"/>
   <remote fetch="https://source.codeaurora.org/external/imxsupport" name="imx-support"/>
-  <remote fetch="https://git-codecommit.ap-south-1.amazonaws.com/v1/repos" name="iwave"/>
+  <remote fetch="https://github.com/iwave-git" name="iwave"/>
 
   <project remote="yocto" name="poky" path="sources/poky" revision="4d7162798ec19c726877e85509e4c7a99eb6576d" upstream="honister"/>
 
