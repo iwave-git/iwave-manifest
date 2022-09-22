@@ -40,7 +40,7 @@
      <linkfile dest="README-IMXBSP" src="README"/>
   </project>
 
-  <project remote="iwave" name="meta-iwave" path="sources/meta-iwave" revision="dfb4aafce1c5ca9407c2438eccb0ced3541a78f1">
+  <project remote="iwave" name="meta-iwave" path="sources/meta-iwave" revision="b7825750992866847712d34b9d1d30e1852f229f">
      <linkfile dest="iwg34s-setup-release.sh" src="tools/iwg34-setup-release.sh"/>
      <linkfile dest="README-IMXBSP" src="README"/>
   </project>
